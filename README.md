@@ -1,16 +1,16 @@
-🛍️ E-commerce Website
+# 🛍️ E-commerce Website
 
 This is a **frontend-only e-commerce website** created as a project to practice web development. It includes product listing, product detail pages, a cart page, and a basic home layout.
 
 ---
 
-🔗 Live Preview
+## 🔗 Live Preview
 
-[View Site : (https://unibox-store.netlify.app)
+[View Site (if hosted)](https://unibox-store.netlify.app/)  
 
 ---
 
-✨ Features
+## ✨ Features
 
 - Homepage with featured products
 - Product listing and individual product cards
@@ -20,7 +20,7 @@ This is a **frontend-only e-commerce website** created as a project to practice 
 
 ---
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 - HTML5
 - CSS3
