@@ -6,7 +6,7 @@ This is a **frontend-only e-commerce website** created as a project to practice 
 
 ## 🔗 Live Preview
 
-[View Site (if hosted)](https://unibox-store.netlify.app/)  
+[View Site](https://unibox-store.netlify.app/)  
 
 ---
 
